@@ -1,7 +1,7 @@
 {
-  "name": "angular-analytics-baidu",
-  "main": "angular-analytics-baidu.js",
-  "version": "0.1.0",
+  "name": "angular-analytics-integrations-baidu",
+  "main": "angular-analytics-integrations-baidu.js",
+  "version": "0.2.0",
   "authors": [
     "L42y <423300@gmail.com>"
   ],
