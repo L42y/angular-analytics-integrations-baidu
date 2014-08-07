@@ -1,0 +1,26 @@
+{
+  "name": "angular-analytics-baidu",
+  "main": "angular-analytics-baidu.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "Baidu analytics integration for angular-analytics",
+  "keywords": [
+    "angular",
+    "baidu",
+    "analytics"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-analytics-integrations-baidu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-analytics": "L42y/angular-analytics#~0.1.0"
+  }
+}
